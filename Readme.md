@@ -1,1 +1,0 @@
-These programs for supercomputer.
